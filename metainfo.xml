@@ -1,0 +1,15 @@
+<Extension>
+
+	<name>basepost</name>
+	<version>0.1</version>
+	<title>Base Post</title>
+	
+ 
+	<class>org.opencomb.post.Basepost</class>
+	<package folder="/class" namespace="org.opencomb.post" />
+ 
+	<template folder="/template" />
+	
+	<publicFolder folder="/public" />
+	
+</Extension>
