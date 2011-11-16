@@ -3,7 +3,7 @@ namespace org\opencomb\post ;
 
 use oc\ext\Extension ;
 
-class Basepost extends Extension 
+class BasePost extends Extension 
 {
 	/**
 	 * 载入扩展

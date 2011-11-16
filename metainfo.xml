@@ -5,7 +5,7 @@
 	<title>Base Post</title>
 	
  
-	<class>org.opencomb.post.Basepost</class>
+	<class>org.opencomb.post.BasePost</class>
 	<package folder="/class" namespace="org.opencomb.post" />
  
 	<template folder="/template" />
