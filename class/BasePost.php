@@ -1,8 +1,7 @@
 <?php 
 namespace org\opencomb\post ;
 
-use oc\ext\Extension ;
-
+use org\opencomb\ext\Extension ;
 class BasePost extends Extension 
 {
 	/**
